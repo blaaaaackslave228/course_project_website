@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="contact.xsl"?>
+<info>
+  <student>
+    <fullname>Мамонько Денис Александрович</fullname>
+    <faculty>ФИТ</faculty>
+    <course>1-ый курс</course>
+    <group>10 группа</group>
+    <phone>+375445664672</phone>
+    <email>denismmnk@gmail.com</email>
+  </student>
+</info>
